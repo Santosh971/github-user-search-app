@@ -41,3 +41,8 @@ Ensure you have the following installed:
 - [Node.js](https://nodejs.org/)
 - [Angular CLI](https://angular.io/cli)
 - A code editor like [Visual Studio Code](https://code.visualstudio.com/)
+
+## Getting Started
+- Clone the repository.
+- Run `npm install`.
+- Use `ng serve` to start the app.
